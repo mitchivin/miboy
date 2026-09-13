@@ -2,9 +2,9 @@
 
 A browser handheld with a responsive device shell, on-device menus, keyboard controls, sound and playable games.
 
-**[Explore in DoodleDev](https://doodledev.app/builds/#miboy) · [Launch Mi Boy Color](https://mitchivindesign.github.io/miboy/)**
+**[Open live demo](https://mitchivindesign.github.io/miboy/) · [Explore in DoodleDev](https://doodledev.app/builds/#miboy)**
 
-Works on desktop and phone. Open it in the DoodleDev Builds gallery or launch the standalone player.
+Works on desktop and phone. Open the live demo and start playing.
 
 ![Mi Boy Color running a game](assets/miboy-game-device-1920x1080.webp)
 
@@ -20,9 +20,9 @@ Works on desktop and phone. Open it in the DoodleDev Builds gallery or launch th
 
 ## Get started
 
-1. Open [Mi Boy Color in DoodleDev Builds](https://doodledev.app/builds/#miboy).
-2. Select the device to open the live player.
-3. Choose a game and use the on-screen or keyboard controls.
+1. Open the [Mi Boy Color live demo](https://mitchivindesign.github.io/miboy/).
+2. Choose a game.
+3. Use the on-screen or keyboard controls to play.
 
 This repository contains public product information. The application source is not published here.
 
